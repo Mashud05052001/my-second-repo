@@ -1,0 +1,8 @@
+#miku1 {
+    background: red url('../picture/miku.jpg') no-repeat scroll center/cover;
+    width: 50vw;
+    height: 40vh;
+    text-align: center;
+    font-style: oblique;
+    color: rgba(255, 0, 0, 0.771);
+}
